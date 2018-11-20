@@ -39,6 +39,7 @@ start app via https://localhost:8000/
 
 Simple: 
 ![alt text](https://github.com/raniaSayed/chat-socketio/blob/master/screenshots/Screenshot%20from%202018-11-20%2020-24-28.png)
-
+![alt text](https://github.com/raniaSayed/chat-socketio/blob/master/screenshots/Screenshot%20from%202018-11-20%2020-24-46.png)
+![alt text](https://github.com/raniaSayed/chat-socketio/blob/master/screenshots/Screenshot%20from%202018-11-20%2020-24-50.png)
 <h2>Author</h2>
 <a href="https://github.com/raniaSayed">Rania Sayed</a>
