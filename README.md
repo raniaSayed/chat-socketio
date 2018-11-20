@@ -1,5 +1,5 @@
 <h2>Chat App</h2>
-NodeJS (Express) app provide real-time chat between multiple clients and server
+NodeJS (Express & Socket.io) app provide real-time chat between multiple clients and server
 
 
 <h2>Getting Started</h2>
